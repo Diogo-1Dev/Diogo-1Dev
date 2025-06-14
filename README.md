@@ -43,7 +43,7 @@ src="https://github-readme-stats.vercel.app/api?username=Diogo-1Dev&show_icons=t
   <img 
  align="left" 
     alt="GitHub Stats" 
-    height="110px" 
+    height="200px" 
     style="padding-right: 10px;" 
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-1Dev&theme=highcontrast&Layout=compact&custom_title=Tecnologias&langs_count=9"
  />
